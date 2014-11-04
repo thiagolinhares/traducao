@@ -16,9 +16,9 @@ $_['entry_telephone']    = 'Telefone';
 $_['entry_fax']          = 'Fax';
 
 // Error
-$_['error_exists']       = 'Warning: E-Mail address is already registered!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']        = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field'] = '%s required!';
+$_['error_exists']       = 'Atenção: Endereço de email já registrado!';
+$_['error_firstname']    = 'Nome precisa conter de 1 a 32 caracteres!';
+$_['error_lastname']     = 'Sobrenome precisa conter de 1 a 32 caracteres!';
+$_['error_email']        = 'Endereço de email não válido!';
+$_['error_telephone']    = 'Telefone precisa conter de 1 a 32 caracteres!';
+$_['error_custom_field'] = '%s necessário!';
