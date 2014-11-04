@@ -7,9 +7,9 @@ $_['text_account']                 = 'Conta';
 $_['text_login']                   = 'Login';
 $_['text_new_customer']            = 'Novo Cliente';
 $_['text_register']                = 'Registrar Conta';
-$_['text_register_account']        = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
-$_['text_returning_customer']      = 'Returning Customer';
-$_['text_i_am_returning_customer'] = 'I am a returning customer';
+$_['text_register_account']        = 'Criando uma conta, você será capaz de comprar mais rapidamente, estará atualizada no status de seus pedidos e manterá um rastro dos pedidos feitos anteriormente.';
+$_['text_returning_customer']      = 'Cliente antigo';
+$_['text_i_am_returning_customer'] = 'Eu sou um cliente antigo';
 $_['text_forgotten']               = 'Esqueci minha senha';
 
 // Entry
@@ -17,5 +17,5 @@ $_['entry_email']                  = 'Endereço de E-mail';
 $_['entry_password']               = 'Senha';
 
 // Error
-$_['error_login']                  = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_approved']               = 'Warning: Your account requires approval before you can login.';
+$_['error_login']                  = 'Atenção: Email ou senha incorretos.';
+$_['error_approved']               = 'Atenção: Sua conta precisa de aprovação antes de efetuar o login.';
